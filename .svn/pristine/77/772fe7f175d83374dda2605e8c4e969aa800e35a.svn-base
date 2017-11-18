@@ -1,0 +1,8 @@
+package com.hackathon.smessage.models;
+
+/**
+ * Created by segaw on 11/18/2017.
+ */
+
+public class Contact {
+}
